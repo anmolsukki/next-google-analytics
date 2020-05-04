@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Link fron "next/link";
+import Link from "next/link";
  
 import Layout from "../components/layout.js"
  
