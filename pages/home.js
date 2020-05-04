@@ -8,7 +8,7 @@ export default class extends Component {
     return (
       <Layout>
         <div>Homepage.</div>
-        <Link href="/"><a>Go to MainPage</a></Link>
+        <Link href="/"><a>go to mainPage</a></Link>
       </Layout>
     )
   }
